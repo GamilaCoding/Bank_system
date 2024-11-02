@@ -1,5 +1,5 @@
 # Bank System Project
-
+![Bank_system.png](https://github.com/GamilaCoding/Bank_system/blob/master/Bank_system.png)
 ## This is a simple bank system project developed using Python, Django, and Django REST Framework. 
 The project implements basic CRUD functionality for user accounts,
 enabling seamless management of financial operations.
